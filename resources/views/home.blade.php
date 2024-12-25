@@ -12,5 +12,9 @@
         <h1>THIS IS A TUTORIAL DONE BY RAPHAEL</h1>
     </div>
 
+    <div>
+        <p>my first paragraph</p>
+    </div>
+
 </body>
 </html>
