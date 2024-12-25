@@ -6,7 +6,7 @@
 
         <title>Laravel</title>
 
-        <!-- Fonts -->
+        <!-- okFonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
 
@@ -98,6 +98,7 @@
 
                                             <p class="mt-4 text-sm/relaxed">
                                                 Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                                a better experience with LARAVEL. 
                                             </p>
                                         </div>
                                     </div>
